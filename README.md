@@ -16,3 +16,7 @@
 ```bash
 > whoami
 I’m XRN — the one they didn’t see coming.
+> The-XRN -a
+Hacker | Reverse Engineer | Ghost in the system
+> echo $MISSION
+Disrupt. Dominate. Disappear.
