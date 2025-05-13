@@ -15,8 +15,15 @@
 
 ```bash
 > whoami
-I’m XRN — the one they didn’t see coming.
-> The-XRN -a
-Hacker | Reverse Engineer | Ghost in the system
-> echo $MISSION
-Disrupt. Dominate. Disappear.
+I’m XRN — the anomaly in their system.
+> XRN -a
+Cyber Phantom | Red Teamer | Digital Ghost
+> cat /root/mission.txt
+I was never meant to fit into their world — I was built to rewrite it.
+> nmap --stats-every 10s --script disrupt
+Scanning global systems...
+Injecting chaos...
+Bypassing limits...
+> echo "The shadows are home. The system is my playground."
+> status
+Running silent mode... Logging zero... Operating off-grid...
